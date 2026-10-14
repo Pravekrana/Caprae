@@ -30,14 +30,14 @@ These fields require the applicant's actual facts or personal commitments. They 
 
 | Question | Answer to complete |
 | --- | --- |
-| Current working status in the US | [Enter citizenship or work authorization status accurately, including sponsorship needs where applicable.] |
-| Willing and able to work at least 40 hours per week | [Confirm actual availability.] |
-| Why Caprae Capital? | The opportunity to build practical software with a direct connection to acquisition sourcing and business operations, while taking ownership of product and engineering outcomes. [Review this proposed wording.] |
-| Expected salary | [Enter amount, currency, pay period, and employment or contractor basis.] |
-| Three-month probationary period | [Confirm whether acceptable.] |
-| Training schedule: 9 AM to 6 PM EST, one-hour lunch, for two to three months | [Confirm availability. The handbook says EST; clarify with recruiting whether this means fixed EST or local US Eastern time across daylight saving changes.] |
-| Off-hours emergencies and time-sensitive projects, stated as fewer than approximately two hours weekly | [Confirm whether acceptable.] |
-| Able to start immediately | [Enter actual earliest start date.] |
+| Current working status in the US | Only remote, Indian citizen |
+| Willing and able to work at least 40 hours per week | Yes |
+| Why Caprae Capital? | The opportunity to build practical software with a direct connection to acquisition sourcing and business operations, while taking ownership of product and engineering outcomes. |
+| Expected salary | INR 1,00,000 monthly |
+| Three-month probationary period | Yes |
+| Training schedule: 9 AM to 6 PM EST, one-hour lunch, for two to three months | Yes ready |
+| Off-hours emergencies and time-sensitive projects, stated as fewer than approximately two hours weekly | Yes |
+| Able to start immediately | Immediately |
 
 ## Reapplicant answers
 
